@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeepakRawat2703
-- 👀 I’m interested in learning android development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in learning React js
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dipurawat15@gmail.com
 
